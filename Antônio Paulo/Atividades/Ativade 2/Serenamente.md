@@ -11,7 +11,6 @@
 A paleta foi pensada para transmitir uma vibe de "amanhecer na praia": calma, acolhedora e com um toque de energia positiva.
 
 | Cor | Hex | Papel no App |
-| :--- | :--- | :--- | :--- |
 | **Primária** | `#5E8B7E`  | Cor principal para botões, ícones ativos, etc. |
 | **Secundária**| `#A7C4BC`  | Fundos de cards, divisórias e elementos de suporte. |
 | **Destaque** | `#F4A261` | Botões de ação importantes (CTAs), como "Iniciar". |
