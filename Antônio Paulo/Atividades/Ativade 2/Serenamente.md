@@ -1,6 +1,6 @@
 # Proposta de Identidade Visual: App "Serenamente"
 
-**Autor:** Um Universitário Dedicado  
+**Autor:** Antônio Paulo Viana de Araújo  
 **Projeto:** App de meditação e bem-estar  
 **Data:** 26/08/2025
 
